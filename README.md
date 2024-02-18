@@ -31,9 +31,11 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"></a>
 </p>
 
+### Animated Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a3anshu&theme=dark)
+
 ### GitHub Stats:
 ![Abhinandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a3anshu&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a3anshu&layout=compact&theme=dark)
 
-### Animated Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a3anshu&theme=dark)
+
