@@ -38,7 +38,7 @@
 
 ### GitHub Stats:
 ![Abhinandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a3anshu&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a3anshu&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3anshu&layout=compact&theme=dark" height="195">
 
 
 
