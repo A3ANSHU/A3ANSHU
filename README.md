@@ -37,8 +37,9 @@
 <img src="https://github.com/A3ANSHU/My-Data/blob/main/coder.gif" height="195">
 
 ### GitHub Stats:
-![Abhinandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a3anshu&show_icons=true&theme=dark)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3anshu&layout=compact&theme=dark" height="195">
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=a3anshu&show_icons=true&theme=dark" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3anshu&layout=compact&theme=dark" height="165"></p>
 
 
 
