@@ -38,8 +38,8 @@
 
 ### GitHub Stats:
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=a3anshu&show_icons=true&theme=dark" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3anshu&layout=compact&theme=dark" height="165"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=a3anshu&show_icons=true&theme=dark" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3anshu&layout=compact&theme=dark" height="200"></p>
 
 
 
