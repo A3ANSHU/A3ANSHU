@@ -33,8 +33,9 @@
 </p>
 
 ### Animated Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a3anshu&theme=dark)
-<img src="https://github.com/A3ANSHU/My-Data/blob/main/coder.gif" height="195">
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=a3anshu&theme=dark" height="214">
+<img src="https://github.com/A3ANSHU/My-Data/blob/main/coder.gif" height="214"></p>
 
 ### GitHub Stats:
 <p>
